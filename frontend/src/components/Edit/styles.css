@@ -1,0 +1,14 @@
+.comment-list {
+    list-style-type: none;
+}
+
+.comment-name {
+    padding-top: 12px;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.comment-time {
+    color: gray;
+    font-size: 0.8rem;
+}
